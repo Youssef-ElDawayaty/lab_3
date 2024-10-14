@@ -16,11 +16,13 @@ PUT /items/{id}: Update an item by ID.
 
 DELETE /items/{id}: Delete an item by ID.
 
-https://github.com/Youssef-ElDawayaty/lab_3/blob/main/API%20TEST.postman_collection.json
+**Postman Collection**
+
 
 The Postman collection for testing the API is available in the repository. You can find it at:
 
-Postman Collection
+
+https://github.com/Youssef-ElDawayaty/lab_3/blob/main/API%20TEST.postman_collection.json
 
 **How to Use the Postman Collection**
 
@@ -34,7 +36,7 @@ Execute the requests to test the API.
 
 The API documentation is also available in the repository. You can access it at:
 
-Swagger Documentation
+https://github.com/Youssef-ElDawayaty/lab_3/blob/main/swagger_api.yaml
 
 **How to View Swagger Documentation**
 
