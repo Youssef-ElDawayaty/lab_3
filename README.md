@@ -16,7 +16,7 @@ PUT /items/{id}: Update an item by ID.
 
 DELETE /items/{id}: Delete an item by ID.
 
-**Postman Collection**
+https://github.com/Youssef-ElDawayaty/lab_3/blob/main/API%20TEST.postman_collection.json
 
 The Postman collection for testing the API is available in the repository. You can find it at:
 
